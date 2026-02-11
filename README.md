@@ -1,2 +1,11 @@
-# NexusAI
-NexusAI Platform Which provides Low or No-Code solution for Agents AI, Database Management, Analytical Solutions etc.
+
+  # NexusAI
+
+  This is a code bundle for NexusAI. The original project is available at https://www.figma.com/design/xbQ9pvl0pUTPfSBcM5gByg/NexusAI.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
